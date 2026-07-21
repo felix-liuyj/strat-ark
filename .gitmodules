@@ -1,0 +1,6 @@
+[submodule "strat-ark-frontend"]
+	path = strat-ark-frontend
+	url = https://github.com/felix-liuyj/strat-ark-frontend.git
+[submodule "strat-ark-backend"]
+	path = strat-ark-backend
+	url = git@github.com:felix-liuyj/strat-ark-backend.git

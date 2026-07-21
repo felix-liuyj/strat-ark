@@ -4,6 +4,9 @@
 [![FastAPI][fastapi-shield]][backend-url]
 [![Python][python-shield]][python-url]
 [![PostgreSQL][postgresql-shield]][postgresql-url]
+
+[![Git submodules][submodules-shield]][submodules-url]
+[![Last commit][last-commit-shield]][last-commit-url]
 [![MIT License][license-shield]][license-url]
 
 <p align="center">
@@ -320,5 +323,9 @@ Felix Liu - felixliuyj@gmail.com
 [python-url]: https://www.python.org/
 [postgresql-shield]: https://img.shields.io/badge/PostgreSQL-async-4169E1?logo=postgresql&logoColor=white
 [postgresql-url]: https://www.postgresql.org/
+[submodules-shield]: https://img.shields.io/badge/Git%20submodules-2-F05032?logo=git&logoColor=white
+[submodules-url]: .gitmodules
+[last-commit-shield]: https://img.shields.io/github/last-commit/felix-liuyj/strat-ark?branch=main&logo=github
+[last-commit-url]: https://github.com/felix-liuyj/strat-ark/commits/main
 [license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
 [license-url]: LICENSE
